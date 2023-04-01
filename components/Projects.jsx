@@ -27,7 +27,7 @@ const Projects = () => {
             projectUrl="/HomeTwo"
           />
           <ProjectItem
-            title="AMessenger app"
+            title="Our future city"
             backgroundImg={ABImage}
             projectUrl="/HomeThree"
           />

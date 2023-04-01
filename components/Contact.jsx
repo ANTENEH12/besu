@@ -16,7 +16,7 @@ const Contact = () => {
         </p>
         <h2 className="py-4 text-white text-4xl capitalize">
           {" "}
-          let's get in touch
+          lets get in touch
         </h2>
         <div className="grid bg-black lg:grid-cols-5 gap-8">
           {/* left */}
@@ -40,6 +40,8 @@ const Contact = () => {
                   For more detail imformation about us please call us Or visite
                   our social medias listed below.
                 </p>
+                <p className="text-white text-1xl capitalize">call us on @ <span className="text-blue-600">+251911905581</span> </p>
+                <p className="text-1xl">Email Us @  <a className="text-blue-600" href="https://mail.google.com/mail">besufikadrealestat@gmail.com</a></p>
               </div>
 
               <div className="text-white">
@@ -157,8 +159,8 @@ const Contact = () => {
             </div>
           </Link>
         </div>
-        <div className="text-blue-600 text-center bg-black capitalize items-center justify-center">
-          <h1>© copyright anteneh tassew 2022</h1>
+        <div className="text-blue-600 font-signature text-3xl text-center bg-black capitalize items-center justify-center">
+          <h1>© copyright besufekad real estate 2022</h1>
         </div>
       </div>
     </div>

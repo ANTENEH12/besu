@@ -101,7 +101,7 @@ const Navbar = () => {
             </div>
             <div className="border-b-blue-900 text-white my-4">
               <p className="w-[85%] md:w-[90%] font-signature text-2xl p-4 capitalize">
-                let's build some beautyfull homes together.
+                lets build some beautyfull homes together.
               </p>
             </div>
           </div>

@@ -16,8 +16,9 @@ function HomeThree() {
           src={VImage}
           alt="/"
         />
+         </div>
       </div>
-      <div className="max-w-[1240px] text-white mx-auto p-2 grid md:grid-cols-5 gap-8 py-8">
+      /* <div className="max-w-[1240px] text-white mx-auto p-2 grid md:grid-cols-5 gap-8 py-8">
         <div className="col-span-4">
           <h2 className="p-2 uppercase text-center text-blue-600 font-bold">
             Project Overview
@@ -75,7 +76,7 @@ function HomeThree() {
           </button>
         </Link>
       </div>
-    </div>
+    </div> */
   );
 };
 export default HomeThree
